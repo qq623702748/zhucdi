@@ -1,2 +1,2 @@
 # zhucdi
-this is my repo
+次项目作用：使用淘宝余庆编写的分布式系统fastDFS进行的一些二次开发
